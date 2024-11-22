@@ -32,7 +32,7 @@ Ensure you have the following installed:
 ### **2. Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-reminders.git
+   git clone git@github.com:DevZiaus/todo-with-reminders.git
    cd todo-list-reminders
    ```
 2. Install dependencies:
