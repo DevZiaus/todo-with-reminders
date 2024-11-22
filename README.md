@@ -136,6 +136,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### **Contact**
-For questions or suggestions, feel free to reach out via email: your-email@example.com.
+For questions or suggestions, feel free to reach out via email: contact@devziaus.com.
+
+visit <a href="https://devziaus.xyz">DevZiaus</a> or <a href="https://devziausblog.tech">Blog</a>
 
 **Happy coding!** 😊
